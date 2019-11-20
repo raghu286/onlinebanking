@@ -18,6 +18,7 @@ import com.userFront.domain.User;
 import com.userFront.domain.security.UserRole;
 import com.userFront.service.UserService;
 
+//This is changed by ragu
 @Controller
 public class HomeController {
 
